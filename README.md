@@ -1,1 +1,1 @@
-# Ripley--an early website that shows the growth of my beloved dog, Ripley, over the course of about five years.
+# Ripley--an early website that shows the growth of my beloved dog, Ripley, over the course of about five years. This is a non-responsive website desinged to be viewed on a desktop or laptop computer.
